@@ -1,6 +1,6 @@
 # DIO-WIKI
 
-![wiki](https://user-images.githubusercontent.com/116196987/206657350-44c9368d-2db9-47ef-9ca2-cd507be97621.jpg)
+![wiki2](https://user-images.githubusercontent.com/116196987/207542435-449c132b-0abf-490a-a78d-acaa3ff4b19e.jpg)
 
 Wiki de Repositórios do GitHub desenvolvida com React.
 
